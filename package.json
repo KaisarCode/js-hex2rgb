@@ -1,6 +1,6 @@
 {
   "name": "kc-hex2rgb",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "[js] Convert hex to rgb object.",
   "main": "index.js",
   "repository": {
